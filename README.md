@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Data Analyst | Business Analyst | Statistician </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdoul-aziz-gueye-06b9a8248/" target="blank">
+  <a href="https://www.linkedin.com/in/abdoul-aziz-gueye-06b9a8248/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://kaggle.com/https://www.kaggle.com/abdoulazizgueye" target="blank">
+  <a href="https://www.kaggle.com/abdoulazizgueye" target="blank">
     <img src="https://img.shields.io/badge/Kaggle-000?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
   <a href="mailto:abdoulazizgueye008@gmail.com">
