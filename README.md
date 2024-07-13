@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aziz Gueye</h1>
-<h3 align="center">A passionate Data Analyst | Business Analyst | Statistician from Senegal</h3>
+<h3 align="center">A passionate Data Analyst | Business Analyst | Statistician </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdoul-aziz-gueye-06b9a8248/" target="blank">
