@@ -17,6 +17,7 @@
   - [Sales_Entreprise](https://github.com/azizgueye47/projet_DATA_ANALYSE)
   - [Data_Analyst_Marketing](https://github.com/azizgueye47/data_analyst_marketing-)
   - [Salaire Usa](https://github.com/azizgueye47/Salaire-Usa)
+  - [Rapport d'Analyst des Licenciements](https://github.com/azizgueye47/Projet_sql_EDA)
 
 - 📄 [View my CV](https://drive.google.com/file/d/13YYWdVD9N9LwZrkpAk3Lt5Mf5pjqlNaZ/view?usp=drive_link)
 
