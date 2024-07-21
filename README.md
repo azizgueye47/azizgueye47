@@ -18,6 +18,7 @@
   - [Data_Analyst_Marketing](https://github.com/azizgueye47/data_analyst_marketing-)
   - [Salaire Usa](https://github.com/azizgueye47/Salaire-Usa)
   - [Rapport d'Analyst des Licenciements en SQL](https://github.com/azizgueye47/Projet_sql_EDA)
+  - [Défis SQL de 8 semaines](https://github.com/azizgueye47/8-Week-SQL-Challenge)
 
 - 📄 [View my CV](https://drive.google.com/file/d/13YYWdVD9N9LwZrkpAk3Lt5Mf5pjqlNaZ/view?usp=drive_link)
 
