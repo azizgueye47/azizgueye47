@@ -20,8 +20,8 @@
   - [Rapport d'Analyst des Licenciements en SQL](https://github.com/azizgueye47/Projet_sql_EDA)
   - [Défis SQL de 8 semaines](https://github.com/azizgueye47/8-Week-SQL-Challenge)
   - [Dashboard Analyse des sentiments sur Twitter à propos d'une compagnie aérienne américaine](https://dashboard-airline-1.streamlit.app/)
-
-- 📄 [View my CV](https://drive.google.com/file/d/13YYWdVD9N9LwZrkpAk3Lt5Mf5pjqlNaZ/view?usp=drive_link)
+    
+  - 📄 [View my CV](https://drive.google.com/file/d/1I-I56Y1GCApuUSzcRP8S6LuvdM5lQuqo/view?usp=drive_link)
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
